@@ -21,7 +21,11 @@ Machine Learning Foundations
 Data Visualization
 Real-world Data Projects
 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jabbieengineer1@gmail.com&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabbieengineer1@gmail.com&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-jabbie&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-jabbie&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 Motto
 
 “Data is the new oil, but insight is the real value.”
