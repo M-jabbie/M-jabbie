@@ -24,7 +24,7 @@ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-jabbie&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-jabbie&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabbieengineer1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 Motto
 
